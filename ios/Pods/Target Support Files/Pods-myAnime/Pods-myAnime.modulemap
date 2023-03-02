@@ -1,0 +1,6 @@
+module Pods_myAnime {
+  umbrella header "Pods-myAnime-umbrella.h"
+
+  export *
+  module * { export * }
+}
