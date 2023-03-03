@@ -1,0 +1,4 @@
+#Fri Mar 03 04:12:04 PKT 2023
+base.0=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

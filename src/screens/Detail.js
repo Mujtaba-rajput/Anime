@@ -88,7 +88,7 @@ const Detail = ({route, navigation}) => {
           <Text style={styles.description}>Synopsis:</Text>
           <Text style={styles.details}>{params.synopsis}</Text>
           <Text style={styles.description}>Background:</Text>
-          <Text style={styles.details}>{params.synopsis}</Text>
+          <Text style={styles.details}>{params.background}</Text>
         </View>
       </ScrollView>
     </SafeAreaView>

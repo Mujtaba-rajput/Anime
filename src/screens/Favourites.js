@@ -33,6 +33,7 @@ const Favorites = ({route, navigation}) => {
                     image: item.item.image,
                     mal_id: item.item.mal_id,
                     synopsis: item.item.synopsis,
+                    background:item.item.background
                   });
                 }}
                 title={item.item.title}
@@ -49,6 +50,10 @@ const Favorites = ({route, navigation}) => {
                       year: item.item.year,
                       image: item.item.image,
                       mal_id: item.item.mal_id,
+                    synopsis: item.item.synopsis,
+                    background:item.item.background
+
+
                     },
                   ]);
                 }}

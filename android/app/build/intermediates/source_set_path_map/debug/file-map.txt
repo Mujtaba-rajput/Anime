@@ -22,14 +22,14 @@ com.myanime.app-coordinatorlayout-1.1.0-20 C:\Users\hp\.gradle\caches\transforms
 com.myanime.app-jetified-viewpager2-1.0.0-21 C:\Users\hp\.gradle\caches\transforms-3\e02b5f8f97fcd8bced077fff18b23eb1\transformed\jetified-viewpager2-1.0.0\res
 com.myanime.app-jetified-emoji2-views-helper-1.0.0-22 C:\Users\hp\.gradle\caches\transforms-3\e856aa0533ca710bee3c904b6895d956\transformed\jetified-emoji2-views-helper-1.0.0\res
 com.myanime.app-material-1.1.0-23 C:\Users\hp\.gradle\caches\transforms-3\ff06b511a3b64a9f992a538e90dfb504\transformed\material-1.1.0\res
-com.myanime.app-pngs-24 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\generated\res\pngs\debug
-com.myanime.app-resValues-25 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\generated\res\resValues\debug
-com.myanime.app-rs-26 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\generated\res\rs\debug
-com.myanime.app-mergeDebugResources-27 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.myanime.app-mergeDebugResources-28 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.myanime.app-merged_res-29 D:\down\Downloads\myAnimeNew\myAnime\android\app\build\intermediates\merged_res\debug
-com.myanime.app-debug-30 D:\down\Downloads\myAnimeNew\myAnime\android\app\src\debug\res
-com.myanime.app-main-31 D:\down\Downloads\myAnimeNew\myAnime\android\app\src\main\res
-com.myanime.app-packaged_res-32 D:\down\Downloads\myAnimeNew\myAnime\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
-com.myanime.app-packaged_res-33 D:\down\Downloads\myAnimeNew\myAnime\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
-com.myanime.app-packaged_res-34 D:\down\Downloads\myAnimeNew\myAnime\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug
+com.myanime.app-pngs-24 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\generated\res\pngs\debug
+com.myanime.app-resValues-25 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\generated\res\resValues\debug
+com.myanime.app-rs-26 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\generated\res\rs\debug
+com.myanime.app-mergeDebugResources-27 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.myanime.app-mergeDebugResources-28 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.myanime.app-merged_res-29 D:\down\Downloads\myAnime (1)\myAnime\android\app\build\intermediates\merged_res\debug
+com.myanime.app-debug-30 D:\down\Downloads\myAnime (1)\myAnime\android\app\src\debug\res
+com.myanime.app-main-31 D:\down\Downloads\myAnime (1)\myAnime\android\app\src\main\res
+com.myanime.app-packaged_res-32 D:\down\Downloads\myAnime (1)\myAnime\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.myanime.app-packaged_res-33 D:\down\Downloads\myAnime (1)\myAnime\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug
+com.myanime.app-packaged_res-34 D:\down\Downloads\myAnime (1)\myAnime\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug

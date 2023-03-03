@@ -13,7 +13,7 @@ const StoreIds = (state = initialState, action) => {
             return element === action.animeId;
           })
         ) {
-          let index = state.indexOf(action.animeId);
+          index = state.indexOf(action.animeId);
           let newData = state;
           newData.splice(index, 1);
           state = [...newData];

@@ -1,14 +1,14 @@
-#Wed Mar 01 20:04:02 PKT 2023
+#Fri Mar 03 03:04:17 PKT 2023
 path.4=14/classes.dex
 path.3=10/classes.dex
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.4=D\:\\down\\Downloads\\myAnimeNew\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.3=D\:\\down\\Downloads\\myAnimeNew\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.2=D\:\\down\\Downloads\\myAnimeNew\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=D\:\\down\\Downloads\\myAnimeNew\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=D\:\\down\\Downloads\\myAnimeNew\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.2=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=D\:\\down\\Downloads\\myAnime (1)\\myAnime\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

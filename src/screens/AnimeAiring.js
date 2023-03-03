@@ -108,6 +108,7 @@ const AnimeAiring = ({route, navigation}) => {
                           image: item.item.images.webp.large_image_url,
                           mal_id: item.item.mal_id,
                           synopsis: item.item.synopsis,
+                          background: item.item.background,
                         });
                       }}
                       title={item.item.title}
@@ -139,6 +140,8 @@ const AnimeAiring = ({route, navigation}) => {
                             year: item.item.year,
                             image: item.item.images.webp.large_image_url,
                             mal_id: item.item.mal_id,
+                            background:item.item.background,
+                            synopsis:item.item.synopsis
                           },
                         ]);
                       }}
